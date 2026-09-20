@@ -7,3 +7,11 @@ A company wants to understand how employees communicate through email. To achiev
 ### 📄 Practical PDF
 
 [View PDF](./EDA%20Pra1.pdf)
+
+## 📘 Practical 02
+
+### 🎯 Aim
+A retail company wants to analyze its sales data to understand customer trends and business performance. To achieve this, essential Python libraries are implemented for efficient data handling and visualization, enabling the extraction of meaningful insights from the dataset.  
+
+### 📄 Practical PDF
+[View PDF](./EDA%20Pra2.pdf)
