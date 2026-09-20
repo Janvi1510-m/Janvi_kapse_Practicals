@@ -8,6 +8,7 @@ A company wants to understand how employees communicate through email. To achiev
 
 [View PDF](./EDA%20Pra1.pdf)
 
+
 ## 📘 Practical 02
 
 ### 🎯 Aim
@@ -15,6 +16,7 @@ A retail company wants to analyze its sales data to understand customer trends a
 
 ### 📄 Practical PDF
 [View PDF](./EDA%20Pra%202.pdf)
+
 
 ## 📘 Practical 03
 
@@ -24,3 +26,11 @@ A healthcare organization has collected patient records containing missing entri
 ### 📄 Practical PDF
 [View PDF](./EDA%20Pra3.pdf)
 
+
+## 📘 Practical 04
+
+### 🎯 Aim
+A real estate company wants to understand the factors influencing house prices and improve its pricing strategy. To achieve this, analyze the Housing Price dataset to examine feature distributions, correlations, and missing values, and derive meaningful insights from the data.
+
+### 📄 Practical PDF
+[View PDF](./EDA%20Pra%204.pdf)
