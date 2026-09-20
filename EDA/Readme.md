@@ -34,3 +34,12 @@ A real estate company wants to understand the factors influencing house prices a
 
 ### 📄 Practical PDF
 [View PDF](./EDA%20Pra%204.pdf)
+
+
+## 📘 Practical 05
+
+### 🎯 Aim
+A healthcare analytics team wants to study how medical expenses vary among patients based on treatment type and gender. To achieve this, analyze the distribution and variation of healthcare expenses across different treatment types and gender using statistical plots.
+
+### 📄 Practical PDF
+[View PDF](./EDA%20Pra%205.pdf)
