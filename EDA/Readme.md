@@ -6,4 +6,4 @@ A company wants to understand how employees communicate through email. To achiev
 
 ### 📄 Practical PDF
 
-[View Practical 01 PDF](./EDA Pra1.pdf)
+[View PDF](./EDA%20Pra1.pdf)
