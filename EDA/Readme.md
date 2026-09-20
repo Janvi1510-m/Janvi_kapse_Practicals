@@ -15,3 +15,12 @@ A retail company wants to analyze its sales data to understand customer trends a
 
 ### 📄 Practical PDF
 [View PDF](./EDA%20Pra%202.pdf)
+
+## 📘 Practical 03
+
+### 🎯 Aim
+A healthcare organization has collected patient records containing missing entries, duplicate records, and unusual values. To prepare the data for accurate analysis, create a preprocessed dataset by handling missing values, duplicates, and outliers using Pandas. 
+
+### 📄 Practical PDF
+[View PDF](./EDA%20Pra3.pdf)
+
